@@ -21,5 +21,3 @@ def nashe(maxnumber):
         #print(f"There are: {steps} steps")
 
 nashe(3.5)
-
-#Testing comment for github commit
